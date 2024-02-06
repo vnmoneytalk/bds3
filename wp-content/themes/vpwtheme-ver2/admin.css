@@ -1,0 +1,23 @@
+/*
+Theme Name: vpwtheme
+Theme URI: http://vinhphucweb.com
+Author: https://www.facebook.com/Tung.teen.9x
+Author URI: http://vinhphucweb.com
+Description: Description
+Version: 1.0.0
+Text Domain: http://vinhphucweb.com
+Email : Lovewinter125@gmail.com
+Tags:vpwtheme
+
+--------------------------------------------------------------*/
+.thongtintheme{
+    position: absolute;
+    top: 6px;
+    right: 20px;
+    overflow: hidden;
+    left: auto;
+    color: #fff;
+    padding-top: 30px;
+    text-align: left;
+    font-weight: bold;
+}
